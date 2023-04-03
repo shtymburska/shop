@@ -103,6 +103,16 @@ img {
     margin-bottom: auto;
 }
 
+.four { 
+    display: block;
+    width: 0.05pc;
+    height: 1px;
+    text-align:left;
+    border: 1px;
+    border-color: beige;
+}
+
+
 .menu li:hover .sub-menu {
     display: block;
   }
